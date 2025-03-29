@@ -4,7 +4,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
 
 # Configure the website URL and other parameters
-WEBSITE_URL = "https://example.com"  # Change this to your target website
+WEBSITE_URL = "https://ipl2025allupdatein.blogspot.com/2025/03/ipl-live-pro-free-advanced-cricket.html"  # Change this to your target website
 WAIT_TIME = 15  # seconds to wait before closing and reloading
 
 def main():
